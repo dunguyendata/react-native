@@ -4,6 +4,8 @@ This document serves as guide for release coordinators. You can find a list of r
 
 ## Release schedule
 
+C-c-change
+
 React Native follows a monthly release train. Every month, a new branch created off master enters the Release Candidate phase, and the previous Release Candidate branch is released and considered stable.
 
 
